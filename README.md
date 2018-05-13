@@ -36,8 +36,8 @@ MMAutoCam - бесплатная программа, предназначенн�
 Для установки программы скачайте нужную версию архива, распакуйте в любое удобное для вас место
 и запустите файл MMAutoCam.exe
 
-- [Скачать MMAutoCam для 64-х разрядной Windows](https://github.com/weirdbrume/MMAutoCam/row/master/bin/MMAutoCam_x64.rar)
-- [Скачать MMAutoCam для 32-х разрядной Windows](https://github.com/weirdbrume/MMAutoCam/row/master/bin/MMAutoCam_x86.rar)
+- [Скачать MMAutoCam для 64-х разрядной Windows](https://github.com/weirdbrume/MMAutoCam/blob/master/bin/MMAutoCam_x64.rar)
+- [Скачать MMAutoCam для 32-х разрядной Windows](https://github.com/weirdbrume/MMAutoCam/blob/master/bin/MMAutoCam_x86.rar)
 
 ### Для создания камеры:
 
