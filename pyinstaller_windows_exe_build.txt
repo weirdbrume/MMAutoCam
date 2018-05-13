@@ -1,0 +1,4 @@
+Версия pyinstaller 3.3.1 python 3.6.5
+Переходим в cmd в директорию проекта (туда, где лежит MMAutoCam.py) и вводим (можно скопировать и вставить):
+
+pyinstaller --onefile --noconsole --runtime-tmpdir="res" --icon="res\icon\icon.ico" MMAutoCam.py
